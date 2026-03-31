@@ -1,6 +1,7 @@
 # 📊 Data Science Programme – BrightLearn
 
-📌 Overview
+## 📌 Overview
+
 This repository documents my structured learning journey through the BrightLearn Data Analytics and Data Science Programme (2026). It captures key assessments, practical SQL exercises, and foundational data science concepts, combining theory with hands-on, industry-aligned practice.
 The work in this repository demonstrates my progression from data analytics fundamentals to introductory data science and machine learning concepts, aligned with BrightLearn’s curriculum and tools.
 ----
